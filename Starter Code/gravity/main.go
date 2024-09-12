@@ -18,6 +18,5 @@ func main() {
 		panic("Error: incorrect number of command line arguments.")
 	}
 
-	//let's take CLAs: initial universe file, numGens, time, canvas width, drawing frequency
 
 }
